@@ -1,0 +1,12 @@
+C:\Users\user\Documents\SharpDevelop Projects\bumagi_test\bumagi_test\bin\Debug\bumagi_test.exe.config
+C:\Users\user\Documents\SharpDevelop Projects\bumagi_test\bumagi_test\bin\Debug\bumagi_test.exe
+C:\Users\user\Documents\SharpDevelop Projects\bumagi_test\bumagi_test\bin\Debug\bumagi_test.pdb
+C:\Users\user\Documents\SharpDevelop Projects\bumagi_test\bumagi_test\obj\Debug\bumagi_test.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\bumagi_test\bumagi_test\obj\Debug\bumagi_test.exe
+C:\Users\user\Documents\SharpDevelop Projects\bumagi_test\bumagi_test\obj\Debug\bumagi_test.pdb
+D:\Cloud\Study\bumagi_test\bumagi_test\bin\Debug\bumagi_test.exe.config
+D:\Cloud\Study\bumagi_test\bumagi_test\bin\Debug\bumagi_test.exe
+D:\Cloud\Study\bumagi_test\bumagi_test\bin\Debug\bumagi_test.pdb
+D:\Cloud\Study\bumagi_test\bumagi_test\obj\Debug\bumagi_test.csprojResolveAssemblyReference.cache
+D:\Cloud\Study\bumagi_test\bumagi_test\obj\Debug\bumagi_test.exe
+D:\Cloud\Study\bumagi_test\bumagi_test\obj\Debug\bumagi_test.pdb
